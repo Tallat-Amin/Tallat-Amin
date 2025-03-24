@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Tallat and I'm a Software Engineer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Tallat and I'm a Software Engineer who loves exploring new Tecnologies and Stacks</h2>
 
 ###
 
@@ -91,8 +91,3 @@
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Tallat-Amin/Tallat-Amin/output/snake.svg" alt="Snake animation" />
-
-###
