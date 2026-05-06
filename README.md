@@ -17,19 +17,18 @@
 
 
 ## 🧠 My Focus Areas
-- Full-Stack Development
-- Realtime Systems (WebRTC, LiveKit)
-- AI Agents & LLM Integrations
-- System Design & Architecture
-- Performance Optimization
-- Developer Experience & Tooling
+
+I work across full-stack systems with emphasis on:
+
+- 🏗️ System Design → scalable architectures, backend design, distributed systems  
+- ⚡ Realtime Systems → WebRTC, LiveKit, event-driven communication layers  
+- 🤖 AI Systems → LLM integration, agents, RAG pipelines, tool-using workflows  
+- ☁️ Infrastructure → Docker, Kubernetes, cloud deployments, observability  
+- 🚀 Product Engineering → shipping real-world systems, not demos
 
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Tallat-Amin">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tallat-Amin&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Tallat-Amin's GitHub Stats" />
-  </a>
   <img src="https://streak-stats.demolab.com/?user=Tallat-Amin&theme=dark&hide_border=true&cache_seconds=86400" alt="Tallat-Amin's GitHub Streak" width="49%" />
 </p>
 <p align="center">
@@ -169,5 +168,5 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+  <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/main/flames.gif" alt="Bottom Line" width="100%" />
 </div>
