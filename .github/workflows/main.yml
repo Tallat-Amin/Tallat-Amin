@@ -1,3 +1,5 @@
+name: 3D City Builder
+
 on:
   schedule:
     - cron: "0 0 * * *"
