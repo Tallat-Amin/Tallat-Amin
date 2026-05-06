@@ -82,13 +82,10 @@ I work across full-stack systems with emphasis on:
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI%20Agents-111111?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge" />
+<img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=fff" />
+<img src="https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000" />
+<img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 <p align="center">
@@ -122,7 +119,7 @@ I work across full-stack systems with emphasis on:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
