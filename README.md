@@ -33,7 +33,7 @@
   <img src="https://streak-stats.demolab.com/?user=Tallat-Amin&theme=dark&hide_border=true&cache_seconds=86400" alt="Tallat-Amin's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+  <img src="/profile-3d-city.svg" alt="3D City View Preview" width="100%" />
 </p>
 
 
